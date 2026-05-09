@@ -35,7 +35,7 @@ Biểu đồ so sánh giữa Khách hàng mới (New) và Khách hàng quay lạ
 
 - Hiệu quả từ EMI & Credit Card: Mặc dù số lượng giao dịch qua Trả góp (EMI) và Thẻ tín dụng thấp hơn nhiều so với COD (Thanh toán khi nhận hàng), nhưng các phương thức này mang lại Lợi nhuận trên mỗi đơn hàng cao hơn rõ rệt.
 
-- Rủi ro từ COD: Phương thức COD chiếm tỷ trọng đơn hàng cao nhất (47%) nhưng tiềm ẩn rủi ro về hoàn hàng và chi phí vận hành cao, làm ảnh hưởng đến biên lợi nhuận thực tế.
+- Rủi ro từ COD: Phương thức COD chiếm tỷ trọng đơn hàng cao nhất (~36%) nhưng tiềm ẩn rủi ro về hoàn hàng và chi phí vận hành cao, làm ảnh hưởng đến biên lợi nhuận thực tế.
 
 - **Hành động đề xuất**: Thúc đẩy thanh toán không dùng tiền mặt thông qua các chương trình chiết khấu nhẹ hoặc hoàn tiền (Cashback) để vừa tăng AOV, vừa đảm bảo lợi nhuận ròng an toàn hơn.
 
