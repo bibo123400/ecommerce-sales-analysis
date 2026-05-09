@@ -1,6 +1,11 @@
 # ecommerce-sales-analysis
 **Phân tích hành vi khách hàng và hiệu suất kinh doanh bằng SQL Server và Power BI.**
 
+**Công cụ:**
+- DAX, Power Query
+- Power BI trực quan
+- SQL
+
 **1. Tổng quan.**
 Dựa trên dữ liệu năm 2018 (từ tháng 1 đến tháng 12), hệ thống ghi nhận sự tăng trưởng ổn định với tổng doanh thu đạt $437.8K và lợi nhuận ròng là $37K.
 
