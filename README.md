@@ -17,7 +17,7 @@ Danh mục chủ lực: Ngành hàng Clothing (Thời trang) đóng góp tỷ tr
 - **Hành động đề xuất**: Có thể thực hiện triển khai các chương trình khuyến mãi tương tự của tháng 2 để áp dụng công thức thành công này cho các tháng thấp điểm, nhằm giảm chi phí thu hút khách hàng mới.
 
 **3. Cấu trúc Doanh thu & Tăng trưởng**
-Biểu đồ so sánh giữa Khách hàng mới (New Acquisition) và Khách hàng quay lại (Returning) cho thấy:
+Biểu đồ so sánh giữa Khách hàng mới (New) và Khách hàng quay lại (Returning) cho thấy:
 
 - Động lực tăng trưởng: Doanh thu hiện tại vẫn phụ thuộc lớn vào việc tìm kiếm khách hàng mới. Đây là dấu hiệu của một doanh nghiệp đang trong giai đoạn mở rộng thị trường mạnh mẽ.
 
@@ -26,7 +26,7 @@ Biểu đồ so sánh giữa Khách hàng mới (New Acquisition) và Khách hà
 - **Hành động đề xuất**: Cần cân đối lại ngân sách Marketing, chuyển dịch một phần từ quảng cáo hiển thị sang các chương trình CRM (Email Marketing, Loyalty Program) để tối ưu hóa giá trị vòng đời khách hàng (LTV).
 
 **4. Hiệu quả Lợi nhuận theo Phương thức thanh toán**
-- Sử dụng phân tích trục kép (Dual-axis) để so sánh giữa Lợi nhuận và Số lượng đơn hàng:
+- Sử dụng phân tích trục kép để so sánh giữa Lợi nhuận và Số lượng đơn hàng:
 
 - Hiệu quả từ EMI & Credit Card: Mặc dù số lượng giao dịch qua Trả góp (EMI) và Thẻ tín dụng thấp hơn nhiều so với COD (Thanh toán khi nhận hàng), nhưng các phương thức này mang lại Lợi nhuận trên mỗi đơn hàng cao hơn rõ rệt.
 
