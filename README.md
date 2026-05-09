@@ -2,7 +2,7 @@
 **Phân tích hành vi khách hàng và hiệu suất kinh doanh bằng SQL Server và Power BI.**
 
 **1. Tổng quan.**
-Dựa trên dữ liệu năm 2018, hệ thống ghi nhận sự tăng trưởng ổn định với tổng doanh thu đạt $437.8K và lợi nhuận ròng là $37K.
+Dựa trên dữ liệu năm 2018 (từ tháng 1 đến tháng 12), hệ thống ghi nhận sự tăng trưởng ổn định với tổng doanh thu đạt $437.8K và lợi nhuận ròng là $37K.
 
 Giá trị đơn hàng trung bình (AOV): Đạt $875.5, đây là một chỉ số khá tốt cho thấy khách hàng có xu hướng chốt các giỏ hàng có giá trị trung bình cao.
 
